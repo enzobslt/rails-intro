@@ -1,0 +1,2 @@
+class UniverController < ApplicationController
+end
